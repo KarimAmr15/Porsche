@@ -17,8 +17,8 @@ This project is a demonstration of a Porsche website. It provides features for u
 - **Manage Orders**: Admins can modify, delete, and track orders made by users.
 
 ## Technologies Used
-   **Mern Stack**
-Frontend : HTML , CSS , React
-Backend : Node.js , Express
-DataBase : mongoDB
-Authentication: JWT
+### Mern Stack**
+**Frontend**: HTML , CSS , React
+**Backend**: Node.js , Express
+**DataBase**: mongoDB
+**Authentication**: JWT
